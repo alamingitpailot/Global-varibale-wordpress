@@ -1,0 +1,228 @@
+# Copyright (C) 2024 bPlugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Block Plugin Name 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/block-directory\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-26T11:42:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: textdomain\n"
+
+#. Plugin Name of the plugin
+msgid "Block Plugin Name"
+msgstr ""
+
+#. Description of the plugin
+msgid "Description of Block name."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13669
+msgid "Vertical"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13670
+msgid "Horizontal"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13674
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13675
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13744
+msgid "Add or Remove Items"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13748
+msgid "Number:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13750
+msgid "Text:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13754
+msgid "Remove"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13756
+msgid "Duplicate"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13761
+msgid "Add New Card"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13766
+msgid "Component Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13767
+#: dist/editor.js:13769
+msgid "Toggle?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13772
+msgid "Layout:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13779
+#: dist/editor.js:13814
+msgid "Some settings may change when layout will be changed."
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13786
+msgid "Width:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13787
+msgid "Keep width 0, to auto width."
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13791
+msgid "Custom Components"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13793
+msgid "Columns:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13798
+msgid "Column Gap:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13800
+msgid "Row Gap:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13802
+msgid "Enter Image URL"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13807
+msgid "Position:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13820
+msgid "Custom Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13821
+msgid "Background:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13823
+msgid "Typography:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13825
+msgid "Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13831
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13837
+msgid "Margin:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13839
+msgid "Border:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13841
+msgid "Shadow:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13854
+msgid "Block Name in left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13855
+msgid "Block Name in center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:13856
+msgid "Block Name in right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:14107
+msgid "Write Content"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block title"
+msgid "Block Name"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block description"
+msgid "Description of Block name."
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key1"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key2"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "key3"
+msgstr ""
